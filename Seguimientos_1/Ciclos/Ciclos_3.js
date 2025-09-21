@@ -6,6 +6,6 @@ function ahorroSemanal() {
     total += aporte;
     semana++;
   }
-  alert("Total ahorrado: " + total);
+  alert("Total ahorrado:", total);
 }
 ahorroSemanal()
